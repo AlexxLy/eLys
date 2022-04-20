@@ -133,7 +133,7 @@ elys.modules
 
 __all__ = ['database','generators','handler','loader','payloads','security','stagers','util']
 __version__ = '1.0'
-__license__ = 'GPLv3'
+__license__ = 'MIT'
 __github__ = 'https://github.com/AeX03/eLys
 
 # def main():
