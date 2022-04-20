@@ -15,9 +15,7 @@
 6.__Scanner Virus__
 7.__FaceMapper__
 8.__Web GUI__
-9.__Persistence__
-10.__Persistence__
-11.__Persistence__
 
 ## Dashboard
-A control panel 
+A control panel with map of the world
+seeks help to develop Thank you to those who will answer present!
